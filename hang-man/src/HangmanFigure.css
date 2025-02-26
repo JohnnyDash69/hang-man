@@ -1,0 +1,16 @@
+.hangman-figure {
+  display: flex;
+  justify-content: center;
+  margin: 20px;
+}
+
+.gallows {
+  stroke: #000;
+  stroke-width: 4;
+}
+
+.hangman-part {
+  stroke: red;
+  stroke-width: 4;
+  fill: none;
+}
